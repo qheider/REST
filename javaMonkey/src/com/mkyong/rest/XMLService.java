@@ -26,7 +26,7 @@ public class XMLService {
                 getRandomTriple() + "-" +
                 getRandomTriple() + "-" +
                 getRandomTriple();
-System.out.println("Generated " + pin);
+//System.out.println("Generated " + pin);
 return pin;
 } 
 public static int getRandomDigit() {

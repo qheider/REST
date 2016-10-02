@@ -1,1 +1,3 @@
+com\mkyong\rest\XMLService.class
 com\mkyong\rest\MessageRestService.class
+com\mkyong\rest\User.class
