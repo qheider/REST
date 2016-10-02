@@ -13,7 +13,7 @@ public class RestClientMain {
 			  try {
 
 				ClientRequest request = new ClientRequest(
-						"http://localhost:8080/javaMonkey/rest/xml/user/get");
+						"http://localhost:8080/javaMonkey-0.0.1-SNAPSHOT/rest/xml/user/get");
 				request.accept("application/xml");
 				
 		

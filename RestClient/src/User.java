@@ -29,7 +29,7 @@ public class User {
 		this.password = password;
 	}
 
-	@XmlAttribute
+	@XmlElement
 	public String getPin() {
 		return pin;
 	}
